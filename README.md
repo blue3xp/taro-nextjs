@@ -44,15 +44,16 @@ This is a demo project to prove that by modifying the webpack configuration, tar
 }
 ```
 4. add package.json
-   ```
-   "dependencies": {
-    "@tarojs/components": "3.6.6",
-    "@tarojs/taro-h5": "3.6.6"
-  },
-  "devDependencies": {
-    "babel-plugin-transform-taroapi": "^3.6.6"
-  }
-   ```
+```
+    "dependencies": {
+        "@tarojs/components": "3.6.6",
+        "@tarojs/taro-h5": "3.6.6"
+    }
+    "devDependencies": {
+        "babel-plugin-transform-taroapi": "^3.6.6"
+    }
+```
+
 
   
 
