@@ -10,7 +10,6 @@ const nextConfig = {
         alias: {
           ...config.resolve.alias,
           "@tarojs/taro": "@tarojs/taro-h5",
-          // Note: 3.6 之前，请使用 '@tarojs/components$': '@tarojs/components/dist-h5/react',
           ["@tarojs/components$"]: "@tarojs/components/lib/react",
         },
       },
